@@ -1,0 +1,1 @@
+/home/antonio.sobrino/.dotfiles/nvim/init.lua

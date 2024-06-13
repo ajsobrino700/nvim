@@ -1,0 +1,1 @@
+/home/antonio.sobrino/.dotfiles/nvim/lua/plugins/mason.lua
