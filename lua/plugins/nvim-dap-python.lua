@@ -1,1 +1,0 @@
-/home/antonio.sobrino/.dotfiles/nvim/lua/plugins/nvim-dap-python.lua
